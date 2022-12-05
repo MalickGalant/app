@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 32
     defaultConfig {
-        applicationId "com.github.malicgalant"
+        applicationId "io.malicgalant.github.myampexample"
         minSdkVersion 22
         targetSdkVersion 32
         versionCode 1
