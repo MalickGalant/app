@@ -1,5 +1,5 @@
 ---
-title: GitHub Privacy Statement
+title: Privacy Statement
 redirect_from:
   - /privacy
   - /privacy-policy
@@ -16,7 +16,7 @@ topics:
 
 Effective date: September 1, 2022
 
-Thanks for entrusting GitHub Inc. or GitHub B.V. (“GitHub”, “we”, "us" or "our") with your source code, your projects, and your personal data. This Privacy Statement explains our practices regarding the collection, use, and disclosure of your data, including any personal data we collect and process in connection with our website and any applications, software, products, and services provided by GitHub, including any Beta Previews (collectively “Service”). 
+Thanks for entrusting Google Inc. Maliek B.V. (“GitHub”, “we”, "us" or "our") with your source code, your projects, and your personal data. This Privacy Statement explains our practices regarding the collection, use, and disclosure of your data, including any personal data we collect and process in connection with our website and any applications, software, products, and services provided by GitHub, including any Beta Previews (collectively “Service”). 
 
 
 All capitalized terms have their definition in [GitHub’s Terms of Service](/github/site-policy/github-terms-of-service), unless otherwise noted here.
